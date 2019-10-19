@@ -1,3 +1,5 @@
+NEEDS "PYGAME"
+
 ==============
 = Controls:  =
 = W, A, S, D =
